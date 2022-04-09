@@ -84,19 +84,49 @@
     <ClCompile Include="剑指offer II\116.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="1917.cpp">
+    <ClCompile Include="1001-2000\1917.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="901-1000\959.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="1001-2000\2191.cpp">
+    <ClCompile Include="2001-3000\2191.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="1001-2000\2181.cpp">
+    <ClCompile Include="2001-3000\2181.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="1001-2000\1839.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2001-3000\2201.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2001-3000\2202.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2001-3000\2169.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="001-100\46_jump-game-ii.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="101-200\134.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="101-200\152.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="101-200\166.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201-300\211.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201-300\201-210\208.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201-300\220.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
